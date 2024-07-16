@@ -1,1 +1,1 @@
-# NVIDIA_ML_Bot
+# NVIDIA Info Bot
